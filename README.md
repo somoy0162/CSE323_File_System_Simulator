@@ -6,6 +6,9 @@ A virtual file system simulator that emulates core file system operations inside
 environment. Supports hierarchical directory structures, multiple disk block allocation
 strategies, file metadata management, and persistent state across sessions.
 
+## YouTube: Project Demo
+https://youtu.be/sDkYcDE2e8k 
+
 ## Features
 
 - **Hierarchical Directory Structure** — Create, navigate, and manage nested directories.
